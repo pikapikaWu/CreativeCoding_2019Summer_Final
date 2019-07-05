@@ -1,1 +1,2 @@
 # CreativeCoding_2019Summer_Final
+这是上海交通大学设计学院工业设计2018级吴亦凡的CreativeCoding_2019Summer_FinalProject
